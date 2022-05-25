@@ -1,4 +1,4 @@
-- 👋 Olá, sou o Prof. Guido do C.E. Humberto de Alencar Castelo Branco de Pinhais - PR - Brasil.
+- 👋 Olá, sou o **Prof. Guido** do C.E. Humberto de Alencar Castelo Branco de Pinhais - PR - Brasil.
 - 👀 Meu interesse está focado no Itinerário Formativo - Pensamento Computacional
 - 🌱 Estou ensinando aos meus estudantes programação em Scratch, Java Script, HTML-CSS no momento.
 - 💞️ Procuro colaborar em projetos de Lógica Computacional, Arduino, Impressora 3D
